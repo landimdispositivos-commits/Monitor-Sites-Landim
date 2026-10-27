@@ -1,0 +1,5 @@
+# Sites verificados a cada 5 minutos: nome|endereço
+# Para incluir outro site, acrescente uma linha e faça commit.
+Wallet Dash|https://walletdash.landim.net.br/api/health
+LPZ Training|https://lpztraining.landim.net.br/
+n8n|https://n8n.landim.net.br/healthz
